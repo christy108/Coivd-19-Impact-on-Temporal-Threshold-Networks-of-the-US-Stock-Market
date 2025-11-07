@@ -6,4 +6,4 @@ This is the code for a paper that is in the late stages of publication and achie
 HOW TO RUN THE CODE:
 
 STEP_1:
-RUN 1_Network_Creation.ipynb : Creates the threshold networks by finding the suitable threshold per time increment and filtering out unimportant edges. Plotting the criteria figures to ensure that the networks have matched our criteria.
+Run "1_Network_Creation.ipynb" : Creates the threshold networks by finding the suitable threshold per time increment and filtering out unimportant edges. Plotting the criteria figures to ensure that the networks have matched our criteria.
