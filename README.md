@@ -7,4 +7,8 @@ HOW TO RUN THE CODE:
 
 STEP 1: Run "1_Network_Creation.ipynb" 
 
-This creates the threshold networks by finding the suitable threshold per time increment and filtering out unimportant edges. Plotting the criteria figures to ensure that the networks have matched our criteria.
+This creates the threshold stock networks by finding the suitable threshold per time increment and filtering out unimportant edges. Plotting the criteria figures to ensure that the networks have matched our criteria.
+
+Step 2: Run "2_Network_Centrality_Analysis" and "3_Network_Community_Analysis".
+
+These analyse the centrality and community stats of the networks and plot them.
